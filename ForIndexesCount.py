@@ -1,8 +1,8 @@
 '''
 For Indexes Count
 Pawelski
-3/28/2023
-Python II
+11/12/2022
+Introduction to Computer Science
 
 Instructions:
 Run the program in debugging mode to see how it works.

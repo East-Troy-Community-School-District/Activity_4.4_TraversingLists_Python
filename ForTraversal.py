@@ -1,13 +1,13 @@
 '''
 For Traversal
 Pawelski
-3/28/2023
-Python II
+11/12/2022
+Introduction to Computer Science
 
 Instructions:
-Predict what this program will display and record
-the output on the provided activity sheet. Check
-your work by running this program!
+Predict what this program will display and
+record the output on the provided activity sheet.
+Check your work by running this program!
 '''
 
 states = ["WI", "IL", "IN", "NY"]
